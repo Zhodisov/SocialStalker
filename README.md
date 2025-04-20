@@ -1,6 +1,7 @@
 # SocialStalker
 SocialStalker is an advanced stalking project that builds on Telegram Loggers by extending its capabilities to include all major social networks.
 
+![image](https://github.com/user-attachments/assets/d7e52b4d-c578-44a4-8c47-1fb540f0a2e4)
 
 
 Prototype : ![image](https://github.com/user-attachments/assets/9a2c1377-4fa7-494f-9088-556b9f664975)
