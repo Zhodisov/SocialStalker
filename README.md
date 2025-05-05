@@ -36,3 +36,4 @@ V1 : ![Design sans titre (1)](https://github.com/user-attachments/assets/80c3307
   - [asyncpg](https://github.com/MagicStack/asyncpg) for PostgreSQL database interactions.
 - **Database**: PostgreSQL
 - **Deployment**: Ready to be deployed as a web process with API endpoints accessible via a public URL.
+- **Firebase**: Backend API for android techs.
