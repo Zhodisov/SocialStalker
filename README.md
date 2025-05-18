@@ -1,6 +1,12 @@
 # SocialStalker
 SocialStalker is an advanced stalking project that builds on Telegram Loggers by extending its capabilities to include all major social networks.
 
+Integrating safemarket api inside the Android SDK & OSINT safemarket to find informations using instagram username / facebook
+
+![image](https://github.com/user-attachments/assets/bdbcdd96-8246-48d7-8716-7d0d8368afb1)
+
+
+
 ![image](https://github.com/user-attachments/assets/d7e52b4d-c578-44a4-8c47-1fb540f0a2e4)
 
 
