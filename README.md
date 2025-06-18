@@ -4,7 +4,7 @@
 ✏️ In total they contain 70.994.847.748 records + intelx.io who has over 200.000.000.000 records<br>
 
 🔎 The following data is available for search:<br>
-
+`
 📩Email:           24.741.007.324<br>
 👤Full name:       11.636.879.754<br>
 🔑Password:        11.164.145.925<br>
@@ -21,7 +21,7 @@
 ✈️TelegramID:      156.762.688<br>
 🌐Domain:          84.443.741<br>
 📷Instagram ID:    45.344.101<br>
-
+`
 
 SocialStalker is an advanced stalking project that builds on Telegram Loggers by extending its capabilities to include all major social networks.
 
