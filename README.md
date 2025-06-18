@@ -1,4 +1,28 @@
 # SocialStalker
+
+💧 At the moment, our api is loaded with 3489 leaks
+✏️ In total they contain 70.994.847.748 records + intelx.io who has over 200.000.000.000 records
+
+🔎 The following data is available for search:
+
+📩Email:           24.741.007.324
+👤Full name:       11.636.879.754
+🔑Password:        11.164.145.925
+📞Telephone:       9.663.879.935
+👤Nick:            5.031.848.539
+🃏Document Number: 3.429.615.825
+🆔VK ID:           1.827.400.260
+ⓕFacebookID:       830.062.236
+🎯IP:              699.897.479
+🔢SSN:             651.615.996
+🚘Vehicle number:  405.358.873
+🔗Link:            320.052.540
+🏢Company name:    306.532.532
+✈️TelegramID:      156.762.688
+🌐Domain:          84.443.741
+📷Instagram ID:    45.344.101
+
+
 SocialStalker is an advanced stalking project that builds on Telegram Loggers by extending its capabilities to include all major social networks.
 
 <br><br>
